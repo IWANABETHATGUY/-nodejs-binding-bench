@@ -2,8 +2,8 @@
 
 ### neon
 ```
-fibonacci30 x 729 ops/sec ±0.71% (93 runs sampled)
-fibonacci40 x 6.01 ops/sec ±0.25% (19 runs sampled)
+fibonacci30 x 744 ops/sec ±0.24% (94 runs sampled)
+fibonacci40 x 6.07 ops/sec ±0.21% (20 runs sampled)
 ```
 ### napi-rs
 ```
